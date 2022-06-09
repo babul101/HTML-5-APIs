@@ -5,7 +5,8 @@ app.innerHTML = `
 
 <h1>Drag and Drop</h1>
 <div class="uploader">
-    // <div id="item-0" class="dragme" draggable="true"></div>
+    
+ <div id="item-0" class="dragme" draggable="true"></div>
     <div class="dropzone"> Drag Here To Upload</div>
 </div>
 
